@@ -6,4 +6,4 @@ Nama : Yusyaepul\
 Email : yusyaepul@gmail.com
 \
 \
-Link heroku : 
+Link heroku : https://main-bersama-yus.herokuapp.com/
